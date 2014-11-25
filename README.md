@@ -5,10 +5,10 @@ After having finished the design and layout of a full-adder cell, I needed to kn
 
 USE EXAMPLE: I want to extract the capacitance at node CI
 
----------------------------------------------
+```
 wf111-013:Desktop harrym$ python cap.py CI
-Print every single capacitance found? 0/1  1
 
+Print every single capacitance found? 0/1  1
 
 3.13532e-16
 2.10296e-16
@@ -19,4 +19,4 @@ Print every single capacitance found? 0/1  1
 2.19722e-16
 2.56817e-16
 Total capacitance at  CI :  3.101113e-15 
----------------------------------------------
+```
